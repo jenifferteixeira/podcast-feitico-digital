@@ -10,7 +10,7 @@
 
 Projeto com o objetivo de gerar um PodCast com as facilidades das ferramentas de I.A. todos os prompts seguem abaixo.
 
-<a href="https://github.com/jenifferteixeira/podcast-feitico-digital/blob/main/output/ep%231.mp3"> 📕Clique aqui para ouvir</a>
+<a href="https://github.com/jenifferteixeira/podcast-feitico-digital/blob/main/output/ep%231.mp3"> 🎙 Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -24,7 +24,7 @@ Projeto com o objetivo de gerar um PodCast com as facilidades das ferramentas de
 
 - Roteiro gerado via ChatGPT
 - Audio gerado pela ElevenLabs
-- Bing Para gerar capas
+- Bing Para gerar capa
 - CapCut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
